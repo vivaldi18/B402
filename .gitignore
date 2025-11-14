@@ -1,0 +1,10 @@
+# File sensitif
+privkey.txt
+accounts.json
+twitter_credentials.txt
+discord_credentials.txt
+
+# File environment
+env/
+*.pyc
+__pycache__/
